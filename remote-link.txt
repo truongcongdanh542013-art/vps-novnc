@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://nowhere-ladder-tablets-pos.trycloudflare.com/vnc.html
+URL       : https://investigators-aging-circus-cleaner.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-31 11:53:55
+Created   : 2026-07-31 20:51:32
 =======================================================
