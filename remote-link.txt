@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://instructors-partner-acceptable-laser.trycloudflare.com/vnc.html
+URL       : https://follows-farmers-domains-mono.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-05 20:54:27
+Created   : 2026-08-06 01:13:07
 =======================================================
