@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://was-useful-developers-affected.trycloudflare.com/vnc.html
+URL       : https://isolation-trained-regularly-now.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-08 20:17:04
+Created   : 2026-08-09 00:42:03
 =======================================================
