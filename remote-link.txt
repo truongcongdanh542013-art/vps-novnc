@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://add-pregnant-elevation-defense.trycloudflare.com/vnc.html
+URL       : https://changelog-pentium-allow-battle.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-10 10:56:10
+Created   : 2026-08-10 15:49:01
 =======================================================
