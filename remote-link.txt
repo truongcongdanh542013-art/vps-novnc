@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://cad-enforcement-der-soa.trycloudflare.com/vnc.html
+URL       : https://trends-envelope-vector-struck.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 05:20:34
+Created   : 2026-08-19 10:17:53
 =======================================================
