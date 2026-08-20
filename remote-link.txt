@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://excellence-protected-catalyst-responses.trycloudflare.com/vnc.html
+URL       : https://candidate-gentleman-symantec-pixel.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-19 20:14:24
+Created   : 2026-08-20 00:28:46
 =======================================================
