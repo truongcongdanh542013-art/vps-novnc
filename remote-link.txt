@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://civic-cowboy-cuisine-foster.trycloudflare.com/vnc.html
+URL       : https://office-acid-utility-designated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-20 20:16:45
+Created   : 2026-08-21 00:31:16
 =======================================================
