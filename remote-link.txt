@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://clarity-divide-was-elvis.trycloudflare.com/vnc.html
+URL       : https://jennifer-our-partially-compact.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-04 21:56:06
+Created   : 2026-09-05 01:32:43
 =======================================================
