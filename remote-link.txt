@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://exhaust-buys-orleans-shortcuts.trycloudflare.com/vnc.html
+URL       : https://trinity-inserted-agree-common.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-10 17:58:06
+Created   : 2026-09-10 22:03:41
 =======================================================
