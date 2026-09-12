@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sleep-squad-holiday-advocacy.trycloudflare.com/vnc.html
+URL       : https://logged-chicago-spec-souls.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-12 17:30:35
+Created   : 2026-09-12 21:45:56
 =======================================================
