@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://laugh-rec-lights-port.trycloudflare.com/vnc.html
+URL       : https://notifications-glenn-deferred-workshop.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-26 18:08:17
+Created   : 2026-09-26 22:15:48
 =======================================================
