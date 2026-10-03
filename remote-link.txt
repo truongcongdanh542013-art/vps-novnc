@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ste-lakes-refugees-particle.trycloudflare.com/vnc.html
+URL       : https://adjustable-discussion-pants-tobacco.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-03 18:24:23
+Created   : 2026-10-03 22:31:17
 =======================================================
