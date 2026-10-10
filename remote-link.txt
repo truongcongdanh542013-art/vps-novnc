@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://province-would-storm-counsel.trycloudflare.com/vnc.html
+URL       : https://menus-loan-nova-spirit.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-10 02:53:22
+Created   : 2026-10-10 10:52:35
 =======================================================
