@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://starter-retro-fool-leads.trycloudflare.com/vnc.html
+URL       : https://holly-plasma-two-leisure.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 09:31:15
+Created   : 2026-10-15 14:31:31
 =======================================================
