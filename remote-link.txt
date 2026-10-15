@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inserted-dialog-winner-experienced.trycloudflare.com/vnc.html
+URL       : https://bug-issn-sizes-quizzes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-15 18:47:17
+Created   : 2026-10-15 22:45:56
 =======================================================
