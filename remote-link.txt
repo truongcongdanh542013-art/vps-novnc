@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://acids-enormous-progressive-permissions.trycloudflare.com/vnc.html
+URL       : https://covering-considered-soa-later.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-28 10:54:28
+Created   : 2026-10-28 19:57:49
 =======================================================
