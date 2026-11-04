@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://honest-measured-resolved-cumulative.trycloudflare.com/vnc.html
+URL       : https://mud-scoring-always-fibre.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-03 20:43:08
+Created   : 2026-11-04 03:28:37
 =======================================================
