@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://encouraging-size-chester-jefferson.trycloudflare.com/vnc.html
+URL       : https://love-definitions-introduces-workshop.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-11-06 03:48:28
+Created   : 2026-11-06 12:35:09
 =======================================================
